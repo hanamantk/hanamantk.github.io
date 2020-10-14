@@ -73,6 +73,15 @@ input, select, textarea {
 }
 
 /* =========================== CUSTOME STYLES=============================================*/
+.center{
+	display: flex;
+	justify-content: center;
+}
+
+.shadow{
+	box-shadow: 4px 5px 8px 4px #888888;
+}
+
 .more { 
 	cursor: pointer; 
 	border: 1px solid #3498db;
@@ -1847,6 +1856,7 @@ input, select, textarea {
 			line-height: 2em;
 			text-align: center;
 			border: 0;
+			color: palevioletred !important;
 		}
 
 /* Form */
