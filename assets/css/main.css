@@ -73,6 +73,12 @@ input, select, textarea {
 }
 
 /* =========================== CUSTOME STYLES=============================================*/
+
+.pointerNone{
+	pointer-events: none;
+	width: 48% !important;
+	margin: 8px;
+}
 .center{
 	display: flex;
 	justify-content: center;
