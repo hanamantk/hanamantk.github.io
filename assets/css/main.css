@@ -1649,6 +1649,9 @@ input, select, textarea {
 					width: 100%;
 				}
 
+				.row > .pointerNone{
+					width: 100% !important;
+				}
 				.row > .off-12-mobile {
 					margin-left: 100%;
 				}
